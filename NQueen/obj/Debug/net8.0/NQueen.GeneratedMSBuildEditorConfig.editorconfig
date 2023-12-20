@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NQueen
-build_property.ProjectDir = C:\Users\Murat\source\repos\NQueen\NQueen\
+build_property.ProjectDir = C:\Users\Murat\Desktop\N-Queen-main\NQueen\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

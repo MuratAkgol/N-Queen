@@ -12,3 +12,17 @@ C:\Users\Murat\source\repos\NQueen\NQueen\obj\Debug\net8.0\refint\NQueen.dll
 C:\Users\Murat\source\repos\NQueen\NQueen\obj\Debug\net8.0\NQueen.pdb
 C:\Users\Murat\source\repos\NQueen\NQueen\obj\Debug\net8.0\NQueen.genruntimeconfig.cache
 C:\Users\Murat\source\repos\NQueen\NQueen\obj\Debug\net8.0\ref\NQueen.dll
+C:\Users\Murat\Desktop\N-Queen-main\NQueen\bin\Debug\net8.0\NQueen.exe
+C:\Users\Murat\Desktop\N-Queen-main\NQueen\bin\Debug\net8.0\NQueen.deps.json
+C:\Users\Murat\Desktop\N-Queen-main\NQueen\bin\Debug\net8.0\NQueen.runtimeconfig.json
+C:\Users\Murat\Desktop\N-Queen-main\NQueen\bin\Debug\net8.0\NQueen.dll
+C:\Users\Murat\Desktop\N-Queen-main\NQueen\bin\Debug\net8.0\NQueen.pdb
+C:\Users\Murat\Desktop\N-Queen-main\NQueen\obj\Debug\net8.0\NQueen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murat\Desktop\N-Queen-main\NQueen\obj\Debug\net8.0\NQueen.AssemblyInfoInputs.cache
+C:\Users\Murat\Desktop\N-Queen-main\NQueen\obj\Debug\net8.0\NQueen.AssemblyInfo.cs
+C:\Users\Murat\Desktop\N-Queen-main\NQueen\obj\Debug\net8.0\NQueen.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\N-Queen-main\NQueen\obj\Debug\net8.0\NQueen.dll
+C:\Users\Murat\Desktop\N-Queen-main\NQueen\obj\Debug\net8.0\refint\NQueen.dll
+C:\Users\Murat\Desktop\N-Queen-main\NQueen\obj\Debug\net8.0\NQueen.pdb
+C:\Users\Murat\Desktop\N-Queen-main\NQueen\obj\Debug\net8.0\NQueen.genruntimeconfig.cache
+C:\Users\Murat\Desktop\N-Queen-main\NQueen\obj\Debug\net8.0\ref\NQueen.dll

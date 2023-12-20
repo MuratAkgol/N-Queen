@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Murat\\source\\repos\\NQueen\\NQueen\\NQueen.csproj",
+      "projectUniqueName": "C:\\Users\\Murat\\Desktop\\N-Queen-main\\NQueen\\NQueen.csproj",
       "projectName": "NQueen",
-      "projectPath": "C:\\Users\\Murat\\source\\repos\\NQueen\\NQueen\\NQueen.csproj",
+      "projectPath": "C:\\Users\\Murat\\Desktop\\N-Queen-main\\NQueen\\NQueen.csproj",
       "packagesPath": "C:\\Users\\Murat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Murat\\source\\repos\\NQueen\\NQueen\\obj\\",
+      "outputPath": "C:\\Users\\Murat\\Desktop\\N-Queen-main\\NQueen\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
